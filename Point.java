@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 
 public class Point extends xy{
     private Point n1;
